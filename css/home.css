@@ -1,0 +1,6 @@
+.destaque{
+    background-image: url(../img/destaque.webp);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
