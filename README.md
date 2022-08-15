@@ -60,22 +60,22 @@
     <footer>
         <ul class="redes-sociais">
             <li>
-                <a target="_blank" href="https://www.facebook.com/digitalhousebrasil">
+                <a target="_blank" href="https://www.facebook.com/marcelbruno.costa">
                     <img src="img/facebook.svg" alt="Icone Facebook">
                 </a>
             </li>
             <li>
-                <a target="_blank" href="https://www.instagram.com/digitalhousebrasil/">
+                <a target="_blank" href="https://www.instagram.com/agro_top_marcel/">
                     <img src="img/instagram.svg" alt="Icone Instagram">
                 </a>
             </li>
             <li>
-                <a target="_blank" href="https://www.linkedin.com/school/digital-house-brasil/mycompany/">
+                <a target="_blank" href="https://www.linkedin.com/in/marcel-costa-0a647053/">
                     <img src="img/linkedin.svg" alt="Icone LinkedIn">
                 </a>
             </li>
             <li>
-                <a target="_blank" href="https://www.youtube.com/channel/UCRQdwmWMhTcqDFjPT4UPZYA/featured">
+                <a target="_blank" href="https://www.youtube.com/channel/UCrLO0suGja7WUYEU4LbXsVQ">
                     <img src="img/youtube.svg" alt="Youtube">
                 </a>
             </li>
